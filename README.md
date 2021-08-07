@@ -11,7 +11,7 @@
 
   <br>
   
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/LiajuX/Ignite-ReactNative-PassManager-2.0?color=green">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/LiajuX/Ignite-ReactNative-PassManager?color=green">
     
   <img alt="MIT License" src="https://img.shields.io/github/license/LiajuX/Ignite-ReactNative-PassManager-2.0">
 </p>
