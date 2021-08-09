@@ -79,9 +79,6 @@ $ yarn
 # to start running the app
 $ expo start
 
-In another terminal tab:
-# to run the server
-$ yarn server
 ````
 Now, you have to point your smartphone's camera to scan the QR Code displayed on the terminal or in the browser that'll open to open the application on Expo...
 
